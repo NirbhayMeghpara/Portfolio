@@ -1314,7 +1314,7 @@ h3{
         width: 100%;
     }
         
-    .education h3 span, .work-exp h3 span, .hobbies h3{
+    .education h3 span, .work-exp h3 span, .hobbies h3 span{
         margin: 0;
     }
     
