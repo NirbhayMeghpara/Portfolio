@@ -1243,6 +1243,10 @@ h3{
         text-align: left;
         margin-left: -30px;
     }
+    
+    .hobbies-icon{
+        transition: all 0.3s ease-in;
+    }
 }
 
 @media screen and (max-width:900px){
