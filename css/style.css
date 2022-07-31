@@ -1306,10 +1306,14 @@ h3{
 
 @media screen and (max-width:550px){
 
-    .education h3, .work-exp h3, .hobbies h3{
+    .education h3, .work-exp h3{
         text-align: center;
         font-size: 1.9rem;
     }
+    
+    .hobbies h3{
+        font-size: 2.3rem;
+    }    
     
     .education h3::before, .work-exp h3::before, .hobbies h3::before{
         width: 100%;
