@@ -1311,6 +1311,10 @@ h3{
         font-size: 1.9rem;
     }
     
+    .hobbies h3{
+        font-size: 2.3rem;
+    }
+    
     .education h3::before, .work-exp h3::before, .hobbies h3::before{
         width: 100%;
     }
