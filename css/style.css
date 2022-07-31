@@ -1310,7 +1310,7 @@ h3{
 
 @media screen and (max-width:550px){
 
-    .education h3, .work-exp h3{
+    .education h3, .work-exp h3, .hobbies h3{{
         text-align: center;
         font-size: 1.9rem;
     }
