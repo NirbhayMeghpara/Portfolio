@@ -865,7 +865,7 @@ h3 {
 }
 
 .html {
-  width: 80%;
+  width: 90%;
 }
 
 .js {
@@ -875,10 +875,10 @@ h3 {
   width: 75%;
 }
 .reactjs {
-  width: 35%;
+  width: 70%;
 }
 .nodejs {
-  width: 10%;
+  width: 85%;
   animation: progress 1.5s forwards;
 }
 
