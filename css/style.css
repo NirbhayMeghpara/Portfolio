@@ -1478,6 +1478,7 @@ h3 {
 }
 
 .project .wrapper .project-btn .view-btn {
+  text-decoration: none;
   text-align: center;
   position: relative;
   color: #e0ebe8;
